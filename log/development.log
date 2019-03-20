@@ -2162,3 +2162,5 @@ app/controllers/authors_controller.rb:8:in `posts_index'
   Rendering /usr/local/rvm/gems/ruby-2.6.1/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
   Rendered /usr/local/rvm/gems/ruby-2.6.1/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
   Rendered /usr/local/rvm/gems/ruby-2.6.1/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (22.1ms)
+Started GET "/authors/1/posts" for 162.206.81.57 at 2019-03-20 18:35:55 +0000
+Cannot render console from 162.206.81.57! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
